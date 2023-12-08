@@ -31,3 +31,13 @@ Provide a detailed description of your project. Explain its purpose, features, a
 1. Clone the repository.
 2. Install the necessary dependencies using `npm install`.
 3. Configure environment variables for Firebase and MongoDB credentials.
+
+## Technologies Used
+- React
+- React Router for routing
+- SweetAlert2 for user-friendly alerts
+- React Toastify
+- Firebase
+- MongoDB
+- server side (express js)
+  
